@@ -1,0 +1,17 @@
+.botao {
+    padding: 0.625rem 1.125rem;
+    background-color: unset;
+    border: none;
+    border-radius: 0.5rem;
+    color: var(--cinza);
+    font-size: 16px;
+    font-family: inherit;
+    font-weight: var(--peso-media);
+    text-align: center;
+}
+
+.botao--destaque {
+    margin-left: 1rem;
+    background-color: var(--vermelho);
+    color: var(--branco);
+}
