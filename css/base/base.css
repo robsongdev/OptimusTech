@@ -1,5 +1,16 @@
-@import url(_reset.css);
-@import url(_variaveis.css);
+:root{
+    /* CORES */
+    --vermelho: #8E2424;
+    --cinza: #667085;
+    --preto: #3A404E;
+    --branco: #FFFFFF;
+
+    /* FONTES */
+    --fonte-principal: 'Inter',sans-serif;
+    --peso-media: 500;
+    --peso-forte:600;
+    
+}
 
 body {
     font-family: var(--fonte-principal);
