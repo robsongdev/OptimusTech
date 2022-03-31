@@ -7,12 +7,12 @@
 </p>
 
 
-<p align="center">
-  <img alt="Tela" title="#Tela" src="" width="400px">
+<!-- <p align="center">
+ <img alt="Tela" title="#Tela" src="" width="400px">
 
   <img alt="Tela" title="#Tela" src="" width="400px">
 </p>
-
+ -->
 
 <h4 align="center"> 
 	🚧  Projeto em andamento  🚧
