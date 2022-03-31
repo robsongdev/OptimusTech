@@ -1,8 +1,9 @@
 :root{
     /* CORES */
     --vermelho: #8E2424;
-    --cinza: #667085;
-    --preto: #3A404E;
+    --cinza-claro: #667085;
+    --cinza-escuro: #3A404E;
+    --preto:#101828;
     --branco: #FFFFFF;
 
     /* FONTES */
@@ -14,9 +15,10 @@
 
 body {
     font-family: var(--fonte-principal);
-    color: var(--cinza);
+    color: var(--cinza-claro);
 }
 
 .cor--destaque{
     color: var(--preto)
 }
+
