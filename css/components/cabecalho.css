@@ -8,13 +8,6 @@
     font-weight: var(--peso-media);
 }
 
-.cabecalho__navegacao {
-    width: 38.6875rem;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
 .cabecalho__logo{
     display: flex;
     align-items: center;
@@ -32,7 +25,4 @@
     margin-left: 2rem;
 }
 
-.cabecalho__login {
-    margin-left: auto;
-}
 
