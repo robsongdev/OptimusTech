@@ -1,4 +1,4 @@
-.cabecalho {
+.navegacao {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -8,20 +8,20 @@
     font-weight: var(--peso-media);
 }
 
-.cabecalho__logo{
+.navegacao__logo{
     display: flex;
     align-items: center;
 }
 
-.cabecalho-logo__texto{
+.navegacao-logo__texto{
     margin-left: 0.5rem;
 }
 
-.cabecalho-menu{
+.navegacao-menu{
     display: flex;
 }
 
-.cabecalho-menu__item {
+.navegacao-menu__item {
     margin-left: 2rem;
 }
 
