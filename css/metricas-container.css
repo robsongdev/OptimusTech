@@ -1,0 +1,23 @@
+.metricas-container {
+    display: grid;
+    grid-template-columns: 17.5rem 17.5rem 17.5rem 17.5rem;
+    justify-content: center;
+    margin-bottom: 6rem;
+    column-gap: 2rem;
+}
+
+
+
+.metricas__titulo {
+    color: var(--vermelho);
+    font-weight: var(--peso-forte);
+    font-size: 3.75rem;
+    margin-bottom: 0.75rem;
+}
+
+.metricas__subtitulo {
+    color: var(--preto);
+    font-weight: var(--peso-media);
+    font-size: 1.125rem;
+    margin-bottom: 0.5rem;
+}
