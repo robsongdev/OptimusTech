@@ -15,6 +15,7 @@
 
 .navegacao-logo__texto{
     margin-left: 0.5rem;
+    color: var(--cinza-escuro);
 }
 
 .navegacao-menu{

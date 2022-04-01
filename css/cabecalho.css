@@ -19,6 +19,7 @@
     font-weight: var(--peso-forte);
     font-size: 3rem;
     margin-bottom: 1.5rem;
+    color: var(--preto);
 }
 
 .cabecalho__texto{
