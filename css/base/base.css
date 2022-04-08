@@ -6,9 +6,11 @@
     --preto:#101828;
     --branco: #FFFFFF;
     --background-subtitulo: rgba(142,36,36,0.05);
+    --background-depoimentos: rgba(195,25,25,0.03);
 
     /* FONTES */
     --fonte-principal: 'Inter',sans-serif;
+    --peso-regular:400;
     --peso-media: 500;
     --peso-forte:600;
     
