@@ -50,3 +50,7 @@ a {
 img {
 	width: inherit;
 }
+
+span {
+	display: inline-block;
+}

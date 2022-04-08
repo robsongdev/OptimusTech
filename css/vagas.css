@@ -1,8 +1,3 @@
-.vagas {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
 .vagas__cabecalho {
     display: flex;
     flex-direction: column;
@@ -33,5 +28,22 @@
 .vagas__banner {
     margin-left: auto;
     margin-right: auto;
+    display: inherit;
+    margin-bottom: 4rem;
     
+}
+
+.vagas__especialidade {
+    max-width: 48rem;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4rem;
+}
+
+.especialidade__titulo {
+    font-weight: var(--peso-media);
+    font-size: 1.25rem;
+    color: var(--preto);
+    margin-bottom: 2rem;
 }
