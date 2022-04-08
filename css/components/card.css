@@ -1,0 +1,19 @@
+.card {
+    font-weight: var(--peso-media);
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    box-sizing: border-box;
+
+    padding: 1.5rem 1.5rem 1.75rem 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.card__titulo {
+    color: var(--preto);
+    font-size: 1.125rem;
+    margin-bottom: 2rem;
+}
+
+.card__informacoes span:first-child {
+    margin-right: 12px;
+}
