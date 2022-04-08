@@ -1,0 +1,34 @@
+.rodape {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background-color: var(--background-rodape);
+    width: 100%;
+    padding: 6rem 0rem;
+    box-sizing: border-box;
+}
+
+.rodape__titulo {
+    color: var(--preto);
+    font-weight: var(--peso-forte);
+    font-size: 2.25rem;
+    margin-bottom: 1.25rem;
+}
+
+.rodape__texto {
+    margin-bottom: 2.5rem;
+}
+
+.rodape__formulario {
+    margin-bottom: 2rem;
+}
+
+.formulario__email {
+    font-family: inherit;
+    padding: 0.75rem 0.875rem;
+    box-sizing: border-box;
+
+    border: 1px solid #D0D5DD;
+    border-radius: 0.5rem;
+}
