@@ -3,7 +3,7 @@
 
 <p align="center"> Projeto desafio do #7DaysOfCode propocionado pela @alura para colocar em prática os nossos conhecimento em HTML e CSS
   <br/>
-  Link do Projeto: <a href="robsongdev.github.io/optimustech/" >OptimusTech</a>
+  Link do Projeto: <a href="https://robsongdev.github.io/optimustech/" >OptimusTech</a>
 </p>
 
 
@@ -16,9 +16,6 @@
 </p>
 
 
-<h4 align="center"> 
-	🚧  Projeto em andamento  🚧
-</h4>
 
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre</a> •
